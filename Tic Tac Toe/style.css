@@ -1,0 +1,39 @@
+h1{
+    font: 13px;
+    color: white;
+    text-align: center;
+}
+.boxsize{
+    width:180px;
+    height:180px;
+    margin:5px auto;
+}
+.box{
+    display:grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+}
+.choose{
+    text-align: center;
+    width: 80px;
+    height: 30px;
+    margin: 5px auto;
+}
+#ans{
+    background-color: black;
+    width:300px;
+    height: 70px;
+    text-align: center;
+    margin: 5px auto;
+}
+.r{
+    border-right: 2px solid white;
+}
+.b{
+    border-bottom:2px solid white;
+}
+.l{
+    border-left:2px solid white;
+}
+.t{
+    border-top:2px solid white;
+}
